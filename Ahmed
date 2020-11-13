@@ -1,0 +1,9 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<h1> Ahmed kheder</h1>
+<?php
+echo “ahmed”;
+?>
+</body>
+</html>
